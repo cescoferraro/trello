@@ -23,7 +23,7 @@ type Member struct {
 
 // GetMember takes a member id and Arguments and returns a Member or an error.
 func (c *Client) GetMe(args Arguments) (member *Member, err error) {
-	err = c.Get("me", args, &member)
+	err = c.Get("members/me", args, &member)
 	if err == nil {
 		member.client = c
 	}
