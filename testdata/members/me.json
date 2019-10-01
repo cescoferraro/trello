@@ -1,0 +1,124 @@
+{
+  "id": "5678062cbac4752ce053a542",
+  "activityBlocked": false,
+  "avatarHash": "e9e762c1cc0ad5ef4902385ab6a664e0",
+  "avatarUrl": "https://trello-avatars.s3.amazonaws.com/e9e762c1cc0ad5ef4902385ab6a664e0",
+  "bio": "",
+  "bioData": {
+    "emoji": {}
+  },
+  "confirmed": true,
+  "fullName": "Francesco Antonello Ferraro",
+  "idEnterprise": null,
+  "idEnterprisesDeactivated": [],
+  "idMemberReferrer": null,
+  "idPremOrgsAdmin": [],
+  "initials": "FF",
+  "memberType": "normal",
+  "nonPublic": {},
+  "nonPublicAvailable": false,
+  "products": [],
+  "url": "https://trello.com/cescoaferraro",
+  "username": "cescoaferraro",
+  "status": "disconnected",
+  "aaEmail": null,
+  "aaId": null,
+  "avatarSource": "gravatar",
+  "email": null,
+  "gravatarHash": "6bbb9b3baf8440bc7a00e3147378bcf2",
+  "idBoards": [
+    "5678062ebac4752ce053a54e",
+    "567807c37c2f4f843dff12ac",
+    "576407fd6f0a5921c953c7c2",
+    "57643302cbfd3378d6c4a106",
+    "57658c095d0b9191097d4993",
+    "59f496c8e68c2ace90c394d8",
+    "5a8caf9fa0d8977102091959",
+    "5a8cafc6164918ff71bee00f",
+    "5aa7e0a2e7397880ab35a02d",
+    "5a8caebfe88c18d505b6d4d7",
+    "5a8ca2fb672c94d1c0eb68c1",
+    "5a984f35b81e3c873c91e19f",
+    "5b19f0dcf8cbafd7af6e66dc",
+    "5bd38fe9e329336e7b509487",
+    "5d3b62212ac8d369cdfea087",
+    "538f872d42bdfee638a6b839"
+  ],
+  "idOrganizations": [
+    "5a8ca2ed6b470f8158691709",
+    "538f86f94488701e39f0b4f1",
+    "5d3b62fe19d5e9218b6d0474"
+  ],
+  "idEnterprisesAdmin": [],
+  "limits": {
+    "boards": {
+      "totalPerMember": {
+        "status": "ok",
+        "disableAt": 4500,
+        "warnAt": 4050
+      }
+    },
+    "orgs": {
+      "totalPerMember": {
+        "status": "ok",
+        "disableAt": 850,
+        "warnAt": 765
+      }
+    }
+  },
+  "loginTypes": null,
+  "marketingOptIn": {
+    "optedIn": true,
+    "date": "2018-04-09T20:24:51.895Z"
+  },
+  "messagesDismissed": [
+    {
+      "_id": "5d2f5383006bbf602e4cae6f",
+      "name": "team-join-cta-banner-5a8ca2ed6b470f8158691709",
+      "count": 4,
+      "lastDismissed": "2019-07-17T16:57:39.937Z"
+    },
+    {
+      "_id": "5d38a8e653aa5876405bc012",
+      "name": "team-join-cta-banner-538f86f94488701e39f0b4f1",
+      "count": 1,
+      "lastDismissed": "2019-07-24T18:52:22.935Z"
+    },
+    {
+      "_id": "5d38a8e7740b758d46aa27ae",
+      "name": "feedback-card-home-page-internal",
+      "count": 2,
+      "lastDismissed": "2019-07-24T18:52:24.300Z"
+    },
+    {
+      "_id": "5d45dc28fbeee653557cc09f",
+      "name": "team-join-cta-banner-5d3b62fe19d5e9218b6d0474",
+      "count": 1,
+      "lastDismissed": "2019-08-03T19:10:32.917Z"
+    }
+  ],
+  "oneTimeMessagesDismissed": [
+    "OPEN_CARD_TIP",
+    "simplified-view-full-view",
+    "team-boards-join-link-banner-5a8ca2ed6b470f8158691709",
+    "close-menu-of-first-board"
+  ],
+  "prefs": {
+    "privacy": {
+      "fullName": "public",
+      "avatar": "public"
+    },
+    "sendSummaries": true,
+    "minutesBetweenSummaries": 1,
+    "minutesBeforeDeadlineToNotify": 1440,
+    "colorBlind": false,
+    "locale": "en-US"
+  },
+  "trophies": [],
+  "uploadedAvatarHash": null,
+  "uploadedAvatarUrl": null,
+  "premiumFeatures": [],
+  "isAaMastered": false,
+  "ixUpdate": "440",
+  "idBoardsPinned": null
+}

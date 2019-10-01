@@ -23,6 +23,8 @@ _testmain.go
 *.test
 *.prof
 
+.idea/
+
 coverage.sh
 coverage.out
 coverage.html
